@@ -19,5 +19,5 @@ def PrimeList(N):
             primes.append(str(num))
     return " ".join(primes)
 
-print(PrimeList(10))  
-print(PrimeList(5))  
+print(PrimeList(10))
+print(PrimeList(5))
